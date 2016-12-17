@@ -19,5 +19,8 @@
   "engines": {
     "node": "0.10.x",
     "npm": "1.2.x"
+  },
+  "dependencies": {
+    "restify": "^4.3.0"
   }
 }
